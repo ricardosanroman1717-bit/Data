@@ -1,0 +1,44 @@
+1. What conclusion can you reach about the responses to this question?
+
+Most students have a laptop or primary monitor, but second monitors vary				
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+Kind of but the words are all cutoff i had to go into excel to resize and read everything. This should be done before being view ready.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+You can find that in the full view when you download the spreadsheet. The other field has misspellings and details that require manual cleaning and categorization before you can run accurate counts or aggregations.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+Written responses are unstructured, meaning students phrase similar thoughts in completely different ways.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+For future surveys it would help to change open-ended or "other" choices into structured multiple choice checkboxes or drop down
+
+Next respond to the below questions:
+
+6. Is there anything that surprised you about the survey responses?
+
+Yes, everyone seems to have a different setup and almost each one is unique.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+I would want to ask what time people wake up, thats interesting.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+Yes, i would remember that not everyone has the luxury of having all the resources to have the same setup and be mindful that some people cant do specific things, while still being able to access a computer some things are difficult not impossible. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.) 
+
+100% I dont think think people should have been singled out for not being prepared yet or not having their routine streamlined just yet. Making it anonymous was the right call.
