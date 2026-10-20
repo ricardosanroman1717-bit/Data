@@ -20,5 +20,11 @@ e) The inventory table contains inventory IDs,
 film IDs, store IDs, and last update timestamps.
 It identifies individual copies of movies and
 which store each copy belongs to.
-f)
+f) I would need the rental, inventory, and film
+tables to find the names of movies rented on a
+specific date. The rental table connects to the
+inventory table through inventory_id. The
+inventory table then connects to the film table
+through film_id, which allows me to find the
+movie titles.
 */
